@@ -2,54 +2,54 @@
 Cancel changes
 
 - 👋 Hi, I’m @zhouxuanxiao, a Ph.D. candidate from Sun Yat-sen University, China.
-- 
+
 - 👀 I’m interested in 3D information extraction and analysis, especially planetary remote sensing and mapping.
-- 
+
 - 🌱 I’m currently learning how to extract the 3D information frmo planetary surface via Computer Graphics.
-- 
+
 - 💞️ I’m a student member of AGU, IEEE, ISPRS and CPGIS, and also a prefered member of IEEE Geoscience and Remote Sensing Society. 
-- 
+
 - 📫 *Web of Science ResearcherID: X-6158-2019 *ORCID: https://orcid.org/0000-0002-4088-4790
 
 ### Publications
 
-Xiao Z. et al. A Workflow of 3D Rock Extraction and Shape Analysis Using Mars Rover Imagery[C]// 2021 National Planetary Science Conference. 2021.
+- Xiao Z. et al. A Workflow of 3D Rock Extraction and Shape Analysis Using Mars Rover Imagery[C]// 2021 National Planetary Science Conference. 2021.
 
-Wang, R. , Lin, J. , Li, L. , Xiao, Z. , & Xin, Y. . (2021). A revised orientation-based correction method for sfm-mvs point clouds of outcrops using ground control planes with marks. Journal of Structural Geology, 143, 104266.
+- Wang, R. , Lin, J. , Li, L. , Xiao, Z. , & Xin, Y. . (2021). A revised orientation-based correction method for sfm-mvs point clouds of outcrops using ground control planes with marks. Journal of Structural Geology, 143, 104266.
 
-Hui, Y. , Wang, R. , Li, L. , Lin, J. , Xiao, Z. , & Xin, Y. . (2021). The timing of barleik formation and its implication for the devonian tectonic evolution of western junggar, nw china. Open Geosciences, 13(1), 188-196.
+- Hui, Y. , Wang, R. , Li, L. , Lin, J. , Xiao, Z. , & Xin, Y. . (2021). The timing of barleik formation and its implication for the devonian tectonic evolution of western junggar, nw china. Open Geosciences, 13(1), 188-196.
 
-Ma L , Jiang W , Xiao Z , et al. Discussion on the depositional timing of the Zhabusagaxiu formation in the eastern Qaidam Basin, China. 2020.
+- Ma L , Jiang W , Xiao Z , et al. Discussion on the depositional timing of the Zhabusagaxiu formation in the eastern Qaidam Basin, China. 2020.
 
-Xiao Z , Wang R , J Lin, et al. Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China. 2020.
+- Xiao Z , Wang R , J Lin, et al. Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China. 2020.
 
-Zhouxuan Xiao, Licheng Ma*, Ran Wang, Wan Jiang, Jie Cai, Yuyan Yao, Jingyu Lin, Lu Li. Grenville–age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite [J]. Geosciences Journal, 2019. Accepted and in press. (SCI (JCR Q3), IF = 1.651)
+- Zhouxuan Xiao, Licheng Ma*, Ran Wang, Wan Jiang, Jie Cai, Yuyan Yao, Jingyu Lin, Lu Li. Grenville–age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite [J]. Geosciences Journal, 2019. Accepted and in press. (SCI (JCR Q3), IF = 1.651)
 
-Zhouxuan Xiao, Ran Wang*, Yuanxiu Hui, Jingyu Lin and Lu Li. Integrated Approach for Calculating the Mineral Assemblages and Oxide Percentage of Crystalline Rock based on Object-Based Image Analysis and Electron Probe Microscopic Analyzer [C]. IEEE 4th International Conference on Image, Vision and Computing, Xiamen City, 2019.7.05-07. (EI/Scopus)
+- Zhouxuan Xiao, Ran Wang*, Yuanxiu Hui, Jingyu Lin and Lu Li. Integrated Approach for Calculating the Mineral Assemblages and Oxide Percentage of Crystalline Rock based on Object-Based Image Analysis and Electron Probe Microscopic Analyzer [C]. IEEE 4th International Conference on Image, Vision and Computing, Xiamen City, 2019.7.05-07. (EI/Scopus)
 
-Yuanxiu Hui, Zhouxuan Xiao, Ran Wang*, Jingyu Lin and Lu Li. Feature extraction and analysis of Zircon CL Images based on Multi-Scale Segmentation [C]. IEEE 4th International Conference on Image, Vision and Computing, Xiamen City, 2019.7.05-07. (EI/Scopus)
+- Yuanxiu Hui, Zhouxuan Xiao, Ran Wang*, Jingyu Lin and Lu Li. Feature extraction and analysis of Zircon CL Images based on Multi-Scale Segmentation [C]. IEEE 4th International Conference on Image, Vision and Computing, Xiamen City, 2019.7.05-07. (EI/Scopus)
 
-Ran Wang, Jingyu Lin, Bo Zhao*, Lu Li, Zhouxuan Xiao, Jurgen Pilz. Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China [J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2018, 11(12): 4791-4807. (SCI (JCR Q2), IF = 3.392)
+- Ran Wang, Jingyu Lin, Bo Zhao*, Lu Li, Zhouxuan Xiao, Jurgen Pilz. Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China [J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. 2018, 11(12): 4791-4807. (SCI (JCR Q2), IF = 3.392)
 
-Jingyu Lin, Ran Wang*, Zhouxuan Xiao, Lu Li, Weihua Yao, Wei Han, and Baolin Zhao. Application of backpack Lidar to geological cross-section measurement [C]. LIDAR Imaging Detection and Target Recognition, SPIE, Changchun City, 2017.7.23-25. (EI/Scopus)
+- Jingyu Lin, Ran Wang*, Zhouxuan Xiao, Lu Li, Weihua Yao, Wei Han, and Baolin Zhao. Application of backpack Lidar to geological cross-section measurement [C]. LIDAR Imaging Detection and Target Recognition, SPIE, Changchun City, 2017.7.23-25. (EI/Scopus)
 
-Lu Li, Ran Wang*, Jingyu Lin, Zhouxuan Xiao, Yuanxiu Hui. A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM [J]. Sedimentary Geology, 2019. (SCI (JCR Q1), IF = 3.244)
+- Lu Li, Ran Wang*, Jingyu Lin, Zhouxuan Xiao, Yuanxiu Hui. A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM [J]. Sedimentary Geology, 2019. (SCI (JCR Q1), IF = 3.244)
 
-Jingyu Lin, Ran Wang*, Lu Li, and Zhouxuan Xiao. A workflow of SfM-based digital outcrop reconstruction using Agisoft PhotoScan [C]. IEEE 4th International Conference on Image, Vision and Computing, Xiamen City, 2019.7.05-07. (EI/Scopus)
+- Jingyu Lin, Ran Wang*, Lu Li, and Zhouxuan Xiao. A workflow of SfM-based digital outcrop reconstruction using Agisoft PhotoScan [C]. IEEE 4th International Conference on Image, Vision and Computing, Xiamen City, 2019.7.05-07. (EI/Scopus)
 
-Lu Li, Ran Wang*, Jingyu Lin, Zhouxuan Xiao, Yuanxiu Hui, and Wei Zeng. Arbitrary Oriented Outcrop Section Measurement using 3D Point Cloud [C]. IEEE 4th International Conference on Image, Vision and Computing, Xiamen City, 2019.7.05-07. (EI/Scopus)
+- Lu Li, Ran Wang*, Jingyu Lin, Zhouxuan Xiao, Yuanxiu Hui, and Wei Zeng. Arbitrary Oriented Outcrop Section Measurement using 3D Point Cloud [C]. IEEE 4th International Conference on Image, Vision and Computing, Xiamen City, 2019.7.05-07. (EI/Scopus)
 
-王冉, 肖宙轩, 林靖愉, 崔文玲. 石香肠构造的多种地质构造背景 [J]. 大地构造与成矿学, 2018, 42(05): 777-785. (EI)
+- 王冉, 肖宙轩, 林靖愉, 崔文玲. 石香肠构造的多种地质构造背景 [J]. 大地构造与成矿学, 2018, 42(05): 777-785. (EI)
 
-肖宙轩;马立成;孙娇鹏;江万;蔡洁;姚宇琰.柴达木北缘乌兰县北部榴闪岩的发现及其地质意义[C]// 2017中国地球科学联合学术年会. (会议摘要)
+- 肖宙轩;马立成;孙娇鹏;江万;蔡洁;姚宇琰.柴达木北缘乌兰县北部榴闪岩的发现及其地质意义[C]// 2017中国地球科学联合学术年会. (会议摘要)
 
-肖宙轩, 李辉, 柴汝宽.含启动压力梯度的低渗透油藏单井产能公式[J]. 石油化工应用, 2016, 35(9).
+- 肖宙轩, 李辉, 柴汝宽.含启动压力梯度的低渗透油藏单井产能公式[J]. 石油化工应用, 2016, 35(9).
 
-肖宙轩, 王冉*, 林靖愉, 惠元秀. 西安秦岭七十二峪基岩壶穴特征及形成条件分析 [C]. 2018中国地理学会年会, 陕西 西安, 2018.8.29-30. (会议全文)
+- 肖宙轩, 王冉*, 林靖愉, 惠元秀. 西安秦岭七十二峪基岩壶穴特征及形成条件分析 [C]. 2018中国地理学会年会, 陕西 西安, 2018.8.29-30. (会议全文)
 
-林靖愉, 王冉*, 肖宙轩, 惠元秀. 陕西宁强县毛坝河镇草川子山坡壶穴发育条件分析 [C]. 2018中国地理学会年会, 陕西 西安, 2018.8.29-30. (会议摘要)
+- 林靖愉, 王冉*, 肖宙轩, 惠元秀. 陕西宁强县毛坝河镇草川子山坡壶穴发育条件分析 [C]. 2018中国地理学会年会, 陕西 西安, 2018.8.29-30. (会议摘要)
 
-王冉, 林靖愉, 肖宙轩, 惠元秀. 米仓山旺苍县一带壶穴群特征及形成条件分析 [C]. 2018中国地理大会, 陕西 西安, 2018.8.29-30. (会议全文)
+- 王冉, 林靖愉, 肖宙轩, 惠元秀. 米仓山旺苍县一带壶穴群特征及形成条件分析 [C]. 2018中国地理大会, 陕西 西安, 2018.8.29-30. (会议全文)
 
 ### Projetcss
 
@@ -66,4 +66,4 @@ Lu Li, Ran Wang*, Jingyu Lin, Zhouxuan Xiao, Yuanxiu Hui, and Wei Zeng. Arbitrar
 
 ## 📫 Support or Contact
 
-Copyrights@2021,Zhouxuan Xiao (### xiaozhx7@mail.sysu.edu.cn ###)
+- Copyrights@2021,Zhouxuan Xiao (### xiaozhx7@mail.sysu.edu.cn ###)
